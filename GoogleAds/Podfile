@@ -6,5 +6,5 @@ target 'GoogleAds' do
   use_frameworks!
 
   # Pods for GoogleAds
-
+    pod 'Google-Mobile-Ads-SDK'
 end
